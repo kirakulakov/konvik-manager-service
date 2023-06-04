@@ -1,0 +1,1 @@
+# konvik-manager-service
